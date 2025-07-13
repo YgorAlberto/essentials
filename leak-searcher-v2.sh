@@ -8,8 +8,8 @@ fi
 
 # Variáveis
 SEARCH_TERM="$1"
-BASE_DIR="/media/kidman/"
-OUTPUT_DIR="/home/kidman/Downloads/PARALLEL-SEC/${SEARCH_TERM}"
+BASE_DIR="/media/unknown"
+OUTPUT_DIR="/home/unknown/Desktop/LEAK-LEAKED/${SEARCH_TERM}"
 THREADS=8
 
 # Criar diretório de saída se não existir

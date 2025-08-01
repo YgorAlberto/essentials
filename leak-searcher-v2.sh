@@ -58,4 +58,4 @@ done
 # Espera todas as buscas terminarem
 wait
 
-echo "Busca concluída!"
+echo "Busca concluída! MUITO RAPIDO? INSTALE O RG... apt install ripgrep"
